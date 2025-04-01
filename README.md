@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavanica123&label=Profile%20views&color=0e75b6&style=flat" alt="yavanica123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavanica123" alt="yavanica123" /></a> </p>
+
 
 - 🔭 I’m currently working on [Movie Website](https://yavanica123.github.io/FILM-AURA/)
 
